@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages class
+## Welcome to GitHub class
 
 You can use the [editor on GitHub](https://github.com/luckybawa/hell.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
